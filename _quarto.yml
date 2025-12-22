@@ -11,10 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: New York
-        href: nyc.qmd
-      - text: Boston
-        href: boston.qmd
+      - text: Itinerary
+        href: time.qmd
       - text: Expenses
         href: costs.qmd
 
