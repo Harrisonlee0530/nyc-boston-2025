@@ -1,0 +1,57 @@
+# Transportation
+## Vancouver (YVR) to New York (EWR)
+| Date | $2025/12/25$ (Thu) |
+| ---- | ------------------ |
+| Time | $08:45$ am PST $\sim$ $04:53$ pm EST|
+| Flight Number | [AC 548](https://www.flightaware.com/live/flight/ACA548) |
+| Duration | 5hr 08min |
+| From | [![](img/google-map-icon.png){width=18px}Vancouver International Airport Terminal M](https://maps.app.goo.gl/2hkkmN5HkESzPVHD9) |
+|  To  | [![](img/google-map-icon.png){width=18px}Newark Liberty International Airport Terminal A](https://maps.app.goo.gl/gwiyuuNS7kpJuiQc6) |
+
+
+## New York to Boston (Amtrak)
+| Date | $2025/12/27$ (Sat) |
+| ---- | ------------------ |
+| Time | $03:01$ pm EST $\sim$ $07:23$ pm EST |
+| Duration | 4h 22min |
+| From | [![](img/google-map-icon.png){width=18px} New York, NY - Moynihan Train Hall at Penn Sta.](https://maps.app.goo.gl/DZ5HQxxm1KcYWj9f6) |
+|  To  | [![](img/google-map-icon.png){width=18px} Boston MA, South Station](https://maps.app.goo.gl/u6ecWL3aQrJGKVx86) |
+
+## Boston (BOS) to Montréal (YUL)
+| Date | $2025/12/29$ (Mon) |
+| ---- | ------------------ |
+| Time | $03:40$ pm EST $\sim$ $05:05$ pm EST |
+| Flight Number | [AC 8607](https://www.flightaware.com/live/flight/ACA8607) |
+| Duration | 1hr 25min |
+| From | [![](img/google-map-icon.png){width=18px}Logan Inernational Airport Terminal B](https://maps.app.goo.gl/SEyDLUcg2bvNKoHt9) |
+|  To  | [![](img/google-map-icon.png){width=18px}Montréal-Trudeau International Airport](https://maps.app.goo.gl/Y9DrBUmgY3h8WjiDA) |
+
+
+## Montréal (YUL) to Vancouver (YVR)
+| Date | $2025/12/29$ (Mon) |
+| ---- | ------------------ |
+| Time | $09:00$ pm EST $\sim$ $11:31$ pm PST |
+| Flight Number | [AC 315](https://www.flightaware.com/live/flight/ACA315) |
+| Duration | 5hr 31min |
+| From | [![](img/google-map-icon.png){width=18px}Montréal-Trudeau International Airport](https://maps.app.goo.gl/Y9DrBUmgY3h8WjiDA) |
+|  To  | [![](img/google-map-icon.png){width=18px}Vancouver International Airport Terminal M](https://maps.app.goo.gl/2hkkmN5HkESzPVHD9) |
+
+
+# Hotel
+## [The Jane Hotel, New York](https://maps.app.goo.gl/gsxDRhbo5c8r2SLW6)
+| Date | $2025/12/25 \ \text{(Thu)} \sim 2025/12/27 \ \text{(Sat)}$ |
+| ---- | ---------------- |
+| Check in | $03:00$ pm |
+| Check out | $12:00$ pm |
+| Confirmation \# | 73330718383060 |
+| Website | [https://thejanenyc.com/?gclsrc=aw.ds](https://thejanenyc.com/?gclsrc=aw.ds) |
+
+
+## [AC Hotel Boston Downtown](https://maps.app.goo.gl/hnNcp2mRDeBnuWJRA)
+| Date | $2025/12/27 \ \text{(Sat)} \sim 2025/12/29 \ \text{(Mon)}$ |
+| ---- | ---------------- |
+| Check in | $03:00$ pm |
+| Check out | $12:00$ pm |
+| Confirmation \# | 93006714 |
+| Website | [https://www.marriott.com/en-us/hotels/boscd-ac-hotel-boston-downtown/overview/](https://www.marriott.com/en-us/hotels/boscd-ac-hotel-boston-downtown/overview/) |
+

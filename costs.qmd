@@ -1,0 +1,28 @@
+# Total Cost for 2
+```{python}
+#| echo: False
+import numpy as np
+cad = {
+    "flight": 2203.28,
+    "ny_hotel": 600.90
+}
+usd = {
+    "boston_hotel": 323.74, 
+    "train": 224, 
+    "MET": 34
+}
+```
+
+| Item | CAD | USD |
+| ---- | --- | --- |
+| Flight ticket | `{python} cad["flight"]` | |
+| NY hotel | `{python} cad["ny_hotel"]` | |
+| Boston hotel | $\approx$ `{python} np.round(usd["boston_hotel"] * 1.37, 2).item()`  | `{python} usd["boston_hotel"]` |
+| train | $\approx$ `{python} np.round(usd["train"] * 1.37, 2).item()`  | `{python} usd["train"]` |
+| MET | $\approx$ `{python} np.round(usd["MET"] * 1.37, 2).item()`  | `{python} usd["MET"]` |
+
+Estimated total: `{python} np.round(sum(cad.values()) + 1.37 * sum(usd.values()), 2).item()` $\approx$ `{python} np.round(sum(cad.values()) + 1.37 * sum(usd.values()), 2).item()/2`/person
+
+:::{.callout-note}
+Assume $1$ USD $\approx 1.37$ CAD
+:::

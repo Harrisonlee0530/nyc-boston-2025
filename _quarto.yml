@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+editor:
+  render-on-save: true
+
+website:
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: New York
+        href: nyc.qmd
+      - text: Boston
+        href: boston.qmd
+      - text: Expenses
+        href: costs.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+
+
+
