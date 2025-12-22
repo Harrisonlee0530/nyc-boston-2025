@@ -28,7 +28,6 @@
 # $2025/12/28$
 - MIT
 - Havard
-- Cambridge
 
 # $2025/12/29$
 - leave at night
