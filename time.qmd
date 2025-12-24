@@ -12,22 +12,30 @@
 # $2025/12/26 \ \text{(Fri)}$
 | Time | Location | Comments |
 | ---- | -------- | -------- |
-| $\ldots$ | $\ldots$ | $\ldots$ |
+| $\cdots$ | $\cdots$ | $\cdots$ |
 | $10:00$ am $\sim 05:00$ pm | [![](img/google-map-icon.png){width=18px}The Metropolitan Museum of Art](https://maps.app.goo.gl/qwgbB3e4hyuiBJbP8) | 
-| $\ldots$ | $\ldots$ | $\ldots$ |
+| $\cdots$ | $\cdots$ | $\cdots$ |
 
 
 # $2025/12/27 \ \text{(Sat)}$
 | Time | Location | Comments |
 | ---- | -------- | -------- |
-| $\ldots$ | $\ldots$ | $\ldots$ |
-| | prepare to leave NY | [![](img/google-map-icon.png){width=18px} New York, NY - Moynihan Train Hall at Penn Sta.](https://maps.app.goo.gl/DZ5HQxxm1KcYWj9f6) |
+| $08:00$ am $\sim 10:00$ am | [![](img/google-map-icon.png){width=18px}St. Patrick's Cathedral](https://maps.app.goo.gl/tLLTvLsS346Jav126) | $1 \sim 1.5$ hrs |
+| $\cdots$ | $\cdots$ | $\cdots$ |
+| | prepare to leave NY | [![](img/google-map-icon.png){width=18px}New York, NY - Moynihan Train Hall at Penn Sta.](https://maps.app.goo.gl/DZ5HQxxm1KcYWj9f6) |
 | $03:00$ pm $\sim 07:30$ pm | Train to Boston | [![](img/google-map-icon.png){width=18px} Boston MA, South Station](https://maps.app.goo.gl/u6ecWL3aQrJGKVx86) |
 
 
-# $2025/12/28$
-- MIT
-- Havard
+# $2025/12/28 \ \text{(Sun)}$
+### [MIT (Massachusetts Institute of Technology)](https://maps.app.goo.gl/X11SCNrSKMLjPoeN9)
+[![](img/google-map-icon.png){width=18px}MIT Physics Department](https://maps.app.goo.gl/jXWJGHYJXJYj7pA28) \
+[![](img/google-map-icon.png){width=18px}MIT Coop at Kendall Square](https://maps.app.goo.gl/Cy3Mu7Tu6pWMz4Rw6) \
+[![](img/google-map-icon.png){width=18px}MIT Museum](https://maps.app.goo.gl/LMGhQwCdKggQeAKp6) \
 
-# $2025/12/29$
+### [Harvard University](https://maps.app.goo.gl/dLCXW2iGx3vRShuL7)
+[![](img/google-map-icon.png){width=18px}Harvard Square](https://maps.app.goo.gl/tAZsWcWFM8ZVMEpE9) \
+[![](img/google-map-icon.png){width=18px}The Collection of Historical Scientific Instruments at the Putnam Gallery](https://maps.app.goo.gl/Th1WCpC4QJpQpBg46) (Close on Sunday) \
+[![](img/google-map-icon.png){width=18px}Havard Book Store](https://maps.app.goo.gl/n1M1yB7bUK5vGH3d9)
+
+# $2025/12/29 \ \text{(Mon)}$
 - leave at night
