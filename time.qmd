@@ -13,20 +13,45 @@
 | Time | Location | Comments |
 | ---- | -------- | -------- |
 | $\cdots$ | $\cdots$ | $\cdots$ |
-| $10:00$ am $\sim 05:00$ pm | [![](img/google-map-icon.png){width=18px}The Metropolitan Museum of Art](https://maps.app.goo.gl/qwgbB3e4hyuiBJbP8) | 
+| $10:00$ am $\sim 05:00$ pm | [![](img/google-map-icon.png){width=18px}The Metropolitan Museum of Art](https://maps.app.goo.gl/qwgbB3e4hyuiBJbP8) |
+| $\cdots$ | See [here](#new-york) | $\cdots$ |
 | $\cdots$ | $\cdots$ | $\cdots$ |
-
 
 # $2025/12/27 \ \text{(Sat)}$
 | Time | Location | Comments |
 | ---- | -------- | -------- |
+| $\cdots$ | See [here](#new-york) | $\cdots$ |
 | $08:00$ am $\sim 10:00$ am | [![](img/google-map-icon.png){width=18px}St. Patrick's Cathedral](https://maps.app.goo.gl/tLLTvLsS346Jav126) | $1 \sim 1.5$ hrs |
 | $\cdots$ | $\cdots$ | $\cdots$ |
 | | prepare to leave NY | [![](img/google-map-icon.png){width=18px}New York, NY - Moynihan Train Hall at Penn Sta.](https://maps.app.goo.gl/DZ5HQxxm1KcYWj9f6) |
 | $03:00$ pm $\sim 07:30$ pm | Train to Boston | [![](img/google-map-icon.png){width=18px} Boston MA, South Station](https://maps.app.goo.gl/u6ecWL3aQrJGKVx86) |
 
-
 # $2025/12/28 \ \text{(Sun)}$
+- See [here](#boston)
+
+# $2025/12/29 \ \text{(Mon)}$
+| Time | Location | Comments |
+| ---- | -------- | -------- |
+| $\cdots$ | $\cdots$ | $\cdots$ |
+| $12:00$ pm | [![](img/google-map-icon.png){width=18px}Logan Inernational Airport Terminal B](https://maps.app.goo.gl/SEyDLUcg2bvNKoHt9) |
+| $03:40$ pm | [flight to YUL](index.qmd#boston-(bos)-to-montréal-(yul)) | $\cdots$ |
+| $\cdots$ | transfer | [![](img/google-map-icon.png){width=18px}Montréal-Trudeau International Airport](https://maps.app.goo.gl/Y9DrBUmgY3h8WjiDA) |
+| $09:00$ pm | [flight to YVR](index.qmd#montréal-(yul)-to-vancouver-(yvr)) | $\cdots$ |
+| $11:31$ pm | arrive | [![](img/google-map-icon.png){width=18px}Vancouver International Airport Terminal M](https://maps.app.goo.gl/2hkkmN5HkESzPVHD9) |
+
+
+# New York
+- [Central Park](https://maps.app.goo.gl/jK4KMKoPKAPUqnFe8)
+- [Statue of Liberty](https://maps.app.goo.gl/n2YCeHgBYh9JPjZU6)
+- [Broadway Theatre](https://maps.app.goo.gl/AMCotfmibEPMBaTo6)
+- [Rockefeller Center](https://maps.app.goo.gl/8HKeC4vge29fGcBRA)
+- [Empire State Building](https://maps.app.goo.gl/vHdArLn6VbhmjrqB6)
+- [One World Trade Center](https://maps.app.goo.gl/TaewJvpJxzar5Y7w6)
+- [9/11 Memorial & Museum](https://maps.app.goo.gl/LoBitv912vK6ZST7A)
+- [United Nations Headquarters](https://maps.app.goo.gl/cjK2FhgTv6ZrXtgM9)
+- [The LEGO® Store Fifth Avenue](https://maps.app.goo.gl/LPKvgK6TET29AYJi6)
+
+# Boston
 ### [MIT (Massachusetts Institute of Technology)](https://maps.app.goo.gl/X11SCNrSKMLjPoeN9)
 [![](img/google-map-icon.png){width=18px}MIT Physics Department](https://maps.app.goo.gl/jXWJGHYJXJYj7pA28) \
 [![](img/google-map-icon.png){width=18px}MIT Coop at Kendall Square](https://maps.app.goo.gl/Cy3Mu7Tu6pWMz4Rw6) \
@@ -34,8 +59,5 @@
 
 ### [Harvard University](https://maps.app.goo.gl/dLCXW2iGx3vRShuL7)
 [![](img/google-map-icon.png){width=18px}Harvard Square](https://maps.app.goo.gl/tAZsWcWFM8ZVMEpE9) \
-[![](img/google-map-icon.png){width=18px}The Collection of Historical Scientific Instruments at the Putnam Gallery](https://maps.app.goo.gl/Th1WCpC4QJpQpBg46) (Close on Sunday) \
 [![](img/google-map-icon.png){width=18px}Havard Book Store](https://maps.app.goo.gl/n1M1yB7bUK5vGH3d9)
-
-# $2025/12/29 \ \text{(Mon)}$
-- leave at night
+<!-- [![](img/google-map-icon.png){width=18px}The Collection of Historical Scientific Instruments at the Putnam Gallery](https://maps.app.goo.gl/Th1WCpC4QJpQpBg46) (Close on Sunday) -->
