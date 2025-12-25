@@ -3,7 +3,7 @@
 | Date | $2025/12/25$ (Thu) |
 | ---- | ------------------ |
 | Time | $08:45$ am PST $\sim$ $04:53$ pm EST|
-| Flight Number | [AC 548](https://www.flightaware.com/live/flight/ACA548) |
+| Flight Number | AC 548 [flighty](https://live.flighty.app/26b89f1a6-1fad-4182-954d-b32f52e566f1), [flightaware](https://www.flightaware.com/live/flight/ACA548) |
 | Duration | 5hr 08min |
 | From | [![](img/google-map-icon.png){width=18px}Vancouver International Airport Terminal M](https://maps.app.goo.gl/2hkkmN5HkESzPVHD9) |
 |  To  | [![](img/google-map-icon.png){width=18px}Newark Liberty International Airport Terminal A](https://maps.app.goo.gl/gwiyuuNS7kpJuiQc6) |
@@ -21,7 +21,7 @@
 | Date | $2025/12/29$ (Mon) |
 | ---- | ------------------ |
 | Time | $03:40$ pm EST $\sim$ $05:05$ pm EST |
-| Flight Number | [AC 8607](https://www.flightaware.com/live/flight/ACA8607) |
+| Flight Number | AC 8607 [flighty](https://live.flighty.app/287af7aae-64e7-4a9e-960b-9fbc3e3e5baf), [flightaware](https://www.flightaware.com/live/flight/ACA8607) |
 | Duration | 1hr 25min |
 | From | [![](img/google-map-icon.png){width=18px}Logan Inernational Airport Terminal B](https://maps.app.goo.gl/SEyDLUcg2bvNKoHt9) |
 |  To  | [![](img/google-map-icon.png){width=18px}Montréal-Trudeau International Airport](https://maps.app.goo.gl/Y9DrBUmgY3h8WjiDA) |
@@ -31,7 +31,7 @@
 | Date | $2025/12/29$ (Mon) |
 | ---- | ------------------ |
 | Time | $09:00$ pm EST $\sim$ $11:31$ pm PST |
-| Flight Number | [AC 315](https://www.flightaware.com/live/flight/ACA315) |
+| Flight Number | AC 315 [flighty](https://live.flighty.app/22268e7fb-9989-4418-874b-7de30d82c32b), [flightaware](https://www.flightaware.com/live/flight/ACA315) |
 | Duration | 5hr 31min |
 | From | [![](img/google-map-icon.png){width=18px}Montréal-Trudeau International Airport](https://maps.app.goo.gl/Y9DrBUmgY3h8WjiDA) |
 |  To  | [![](img/google-map-icon.png){width=18px}Vancouver International Airport Terminal M](https://maps.app.goo.gl/2hkkmN5HkESzPVHD9) |
