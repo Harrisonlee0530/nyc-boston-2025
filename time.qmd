@@ -3,7 +3,7 @@
 | Time | Location | Comments |
 | ---- | -------- | -------- |
 | $08:45$ am $\sim 04:53$ pm | YVR - EWR | See [Here](index.qmd#vancouver-(yvr)-to-new-york-(ewr)) for more details |
-| $\sim 07:00$ pm | Check in - [The Jane Hotel](https://maps.app.goo.gl/znfw3i9iZL4iGX4i7) | [Map](https://maps.app.goo.gl/XFMSPUvbJUEHf3b5A) |
+| $\sim 07:00$ pm | Check in - [The Jane Hotel](https://maps.app.goo.gl/znfw3i9iZL4iGX4i7) | [map](https://maps.app.goo.gl/XFMSPUvbJUEHf3b5A) |
 | TBD | [![](img/google-map-icon.png){width=18px}Times Square](https://maps.app.goo.gl/ALKV64Z9dHh1kSnu6) | |
 | TBD | [![](img/google-map-icon.png){width=18px}Wall Street](https://maps.app.goo.gl/rXUrQaVpbWro2pU18) |
 | TBD | [![](img/google-map-icon.png){width=18px}World Trade Center](https://maps.app.goo.gl/hD7d417GikKSLvaZ8) |
@@ -12,21 +12,35 @@
 # $2025/12/26 \ \text{(Fri)}$
 | Time | Location | Comments |
 | ---- | -------- | -------- |
-| $\cdots$ | $\cdots$ | $\cdots$ |
-| $10:00$ am $\sim 05:00$ pm | [![](img/google-map-icon.png){width=18px}The Metropolitan Museum of Art](https://maps.app.goo.gl/qwgbB3e4hyuiBJbP8) |
+| $07:00$ am $\sim 09:00$ am | [![](img/google-map-icon.png){width=18px}St. Patrick's Cathedral](https://maps.app.goo.gl/tLLTvLsS346Jav126) | $1 \sim 1.5$ hrs |
+| $\cdots$ | go to MET | [map](https://maps.app.goo.gl/mL7oPTFpNcS6dSy66) |
+| $10:00$ am $\sim 09:00$ pm | [![](img/google-map-icon.png){width=18px}The Metropolitan Museum of Art](https://maps.app.goo.gl/qwgbB3e4hyuiBJbP8) |
 | $\cdots$ | See [here](#new-york) | $\cdots$ |
 | $\cdots$ | $\cdots$ | $\cdots$ |
 
 # $2025/12/27 \ \text{(Sat)}$
 | Time | Location | Comments |
 | ---- | -------- | -------- |
+| $\cdots$ | [![](img/google-map-icon.png){width=18px}The High Line](https://maps.app.goo.gl/3h1ByriQzr7wtEEu8) | elavated park w/ views |
 | $\cdots$ | See [here](#new-york) | $\cdots$ |
-| $08:00$ am $\sim 10:00$ am | [![](img/google-map-icon.png){width=18px}St. Patrick's Cathedral](https://maps.app.goo.gl/tLLTvLsS346Jav126) | $1 \sim 1.5$ hrs |
 | $\cdots$ | $\cdots$ | $\cdots$ |
-| | prepare to leave NY | [![](img/google-map-icon.png){width=18px}New York, NY - Moynihan Train Hall at Penn Sta.](https://maps.app.goo.gl/DZ5HQxxm1KcYWj9f6) |
+| $02:00$ pm $?$ | prepare to leave NY | [![](img/google-map-icon.png){width=18px}New York, NY - Moynihan Train Hall at Penn Sta.](https://maps.app.goo.gl/DZ5HQxxm1KcYWj9f6) |
 | $03:00$ pm $\sim 07:30$ pm | Train to Boston | [![](img/google-map-icon.png){width=18px} Boston MA, South Station](https://maps.app.goo.gl/u6ecWL3aQrJGKVx86) |
+| $\cdots$ | Check in [AC Hotel Boston Downtown](https://maps.app.goo.gl/hnNcp2mRDeBnuWJRA) | |
+
 
 # $2025/12/28 \ \text{(Sun)}$
+| Time | Location | Comments |
+| ---- | -------- | -------- |
+| $06:00$ | breakfast | $\cdots$ |
+| $\cdots$ | to MIT | |
+| $10:00$ am | MIT Museum | $1\sim2$hr |
+| $\cdots$ | $\cdots$ | $\cdots$ |
+| $\cdots$ | to Havard | $\cdots$ |
+| afternoon | Havard | $\cdots$ |
+| $\cdots$ | Havard Square, Havard Coop | $\cdots$ |
+| $10:00$ am $\sim 09:00$ pm | [![](img/google-map-icon.png){width=18px}Faneuil Hall & Quincy Market](https://maps.app.goo.gl/huTZBgisob13PxK59) | |
+
 - See [here](#boston)
 
 # $2025/12/29 \ \text{(Mon)}$
@@ -41,24 +55,37 @@
 
 
 # New York
-- [Central Park](https://maps.app.goo.gl/jK4KMKoPKAPUqnFe8)
-- [Statue of Liberty](https://maps.app.goo.gl/n2YCeHgBYh9JPjZU6)
-- [Broadway Theatre](https://maps.app.goo.gl/AMCotfmibEPMBaTo6)
-- [Rockefeller Center](https://maps.app.goo.gl/8HKeC4vge29fGcBRA)
-- [Empire State Building](https://maps.app.goo.gl/vHdArLn6VbhmjrqB6)
-- [One World Trade Center](https://maps.app.goo.gl/TaewJvpJxzar5Y7w6)
-- [9/11 Memorial & Museum](https://maps.app.goo.gl/LoBitv912vK6ZST7A)
-- [United Nations Headquarters](https://maps.app.goo.gl/cjK2FhgTv6ZrXtgM9)
-- [The LEGO® Store Fifth Avenue](https://maps.app.goo.gl/LPKvgK6TET29AYJi6)
-- [American Museum of Natural History](https://maps.app.goo.gl/3hw4hU4Gk3iec6wFA)
+- [ ] [![](img/google-map-icon.png){width=18px}Wall Street](https://maps.app.goo.gl/rXUrQaVpbWro2pU18)
+- [ ] [![](img/google-map-icon.png){width=18px}Rockefeller Center](https://maps.app.goo.gl/8HKeC4vge29fGcBRA)
+- [ ] [![](img/google-map-icon.png){width=18px}St. Patrick's Cathedral](https://maps.app.goo.gl/tLLTvLsS346Jav126)
+- [ ] [![](img/google-map-icon.png){width=18px}9/11 Memorial & Museum](https://maps.app.goo.gl/LoBitv912vK6ZST7A)
+- [ ] [![](img/google-map-icon.png){width=18px}Central Park](https://maps.app.goo.gl/jK4KMKoPKAPUqnFe8)
+- [ ] [![](img/google-map-icon.png){width=18px}Times Square](https://maps.app.goo.gl/ALKV64Z9dHh1kSnu6)
+- [ ] [![](img/google-map-icon.png){width=18px}Empire State Building](https://maps.app.goo.gl/vHdArLn6VbhmjrqB6)
+- [ ] [![](img/google-map-icon.png){width=18px}United Nations Headquarters](https://maps.app.goo.gl/cjK2FhgTv6ZrXtgM9)
+- [ ] [![](img/google-map-icon.png){width=18px}The LEGO® Store Fifth Avenue](https://maps.app.goo.gl/LPKvgK6TET29AYJi6)
+- [ ] [![](img/google-map-icon.png){width=18px}Statue of Liberty](https://maps.app.goo.gl/n2YCeHgBYh9JPjZU6)
+- [ ] [![](img/google-map-icon.png){width=18px}Broadway Theatre](https://maps.app.goo.gl/AMCotfmibEPMBaTo6)
+- [ ] [![](img/google-map-icon.png){width=18px}One World Trade Center](https://maps.app.goo.gl/TaewJvpJxzar5Y7w6)
+- [ ] [![](img/google-map-icon.png){width=18px}The Metropolitan Museum of Art](https://maps.app.goo.gl/qwgbB3e4hyuiBJbP8)
+- [ ] [![](img/google-map-icon.png){width=18px}American Museum of Natural History](https://maps.app.goo.gl/3hw4hU4Gk3iec6wFA)
+
+
 
 # Boston
 ### [MIT (Massachusetts Institute of Technology)](https://maps.app.goo.gl/X11SCNrSKMLjPoeN9)
-[![](img/google-map-icon.png){width=18px}MIT Physics Department](https://maps.app.goo.gl/jXWJGHYJXJYj7pA28) \
-[![](img/google-map-icon.png){width=18px}MIT Coop at Kendall Square](https://maps.app.goo.gl/Cy3Mu7Tu6pWMz4Rw6) \
-[![](img/google-map-icon.png){width=18px}MIT Museum](https://maps.app.goo.gl/LMGhQwCdKggQeAKp6) \
+- [ ] [![](img/google-map-icon.png){width=18px}MIT Museum](https://maps.app.goo.gl/LMGhQwCdKggQeAKp6)
+- [ ] [![](img/google-map-icon.png){width=18px}MIT Physics Department](https://maps.app.goo.gl/jXWJGHYJXJYj7pA28) 
+- [ ] [![](img/google-map-icon.png){width=18px}MIT Coop at Kendall Square](https://maps.app.goo.gl/Cy3Mu7Tu6pWMz4Rw6) **closed on Sunday**
 
 ### [Harvard University](https://maps.app.goo.gl/dLCXW2iGx3vRShuL7)
-[![](img/google-map-icon.png){width=18px}Harvard Square](https://maps.app.goo.gl/tAZsWcWFM8ZVMEpE9) \
-[![](img/google-map-icon.png){width=18px}Havard Book Store](https://maps.app.goo.gl/n1M1yB7bUK5vGH3d9)
+- [ ] [![](img/google-map-icon.png){width=18px}Havard Coop](https://maps.app.goo.gl/iFz69qBNNN5PcCek8)
+- [ ] [![](img/google-map-icon.png){width=18px}Harvard Square](https://maps.app.goo.gl/tAZsWcWFM8ZVMEpE9)
+- [ ] [![](img/google-map-icon.png){width=18px}Havard Book Store](https://maps.app.goo.gl/n1M1yB7bUK5vGH3d9)
 <!-- [![](img/google-map-icon.png){width=18px}The Collection of Historical Scientific Instruments at the Putnam Gallery](https://maps.app.goo.gl/Th1WCpC4QJpQpBg46) (Close on Sunday) -->
+
+### other
+- [ ] [![](img/google-map-icon.png){width=18px}Faneuil Hall & Quincy Market](https://maps.app.goo.gl/huTZBgisob13PxK59)
+- [ ] [![](img/google-map-icon.png){width=18px}SoWa Winter Festival](https://maps.app.goo.gl/pshivK39hdT5BPt58)
+- [ ] [![](img/google-map-icon.png){width=18px}Boston Common](https://maps.app.goo.gl/iwRR29szxJCGYGJB8)
+- [ ] [![](img/google-map-icon.png){width=18px}Public Garden](https://maps.app.goo.gl/Z8NiP6Lxz6RFNgpv7)
