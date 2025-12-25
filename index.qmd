@@ -1,6 +1,6 @@
 # Transportation
 ## Vancouver (YVR) to New York (EWR)
-| Date | $2025/12/25$ (Thu) |
+| Date | $2025/12/25\text{(Thu)} $ |
 | ---- | ------------------ |
 | Time | $08:45$ am PST $\sim$ $04:53$ pm EST|
 | Flight Number | AC 548 [flighty](https://live.flighty.app/26b89f1a6-1fad-4182-954d-b32f52e566f1), [flightaware](https://www.flightaware.com/live/flight/ACA548) |
@@ -10,7 +10,7 @@
 
 
 ## New York to Boston (Amtrak)
-| Date | $2025/12/27$ (Sat) |
+| Date | $2025/12/27\text{(Sat)} $ |
 | ---- | ------------------ |
 | Time | $03:01$ pm EST $\sim$ $07:23$ pm EST |
 | Duration | 4h 22min |
@@ -18,7 +18,7 @@
 |  To  | [![](img/google-map-icon.png){width=18px} Boston MA, South Station](https://maps.app.goo.gl/u6ecWL3aQrJGKVx86) |
 
 ## Boston (BOS) to Montréal (YUL)
-| Date | $2025/12/29$ (Mon) |
+| Date | $2025/12/29\text{(Mon)} $ |
 | ---- | ------------------ |
 | Time | $03:40$ pm EST $\sim$ $05:05$ pm EST |
 | Flight Number | AC 8607 [flighty](https://live.flighty.app/287af7aae-64e7-4a9e-960b-9fbc3e3e5baf), [flightaware](https://www.flightaware.com/live/flight/ACA8607) |
@@ -28,7 +28,7 @@
 
 
 ## Montréal (YUL) to Vancouver (YVR)
-| Date | $2025/12/29$ (Mon) |
+| Date | $2025/12/29\text{(Mon)} $ |
 | ---- | ------------------ |
 | Time | $09:00$ pm EST $\sim$ $11:31$ pm PST |
 | Flight Number | AC 315 [flighty](https://live.flighty.app/22268e7fb-9989-4418-874b-7de30d82c32b), [flightaware](https://www.flightaware.com/live/flight/ACA315) |
